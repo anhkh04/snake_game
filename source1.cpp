@@ -142,7 +142,7 @@ void draw(vector<pair<int, int>> &snake)
 
 void input()
 {
-    switch (getKey())
+    switch (tolower(getKey()))
     {
     case 'w':
         if (dir == DOWN)
