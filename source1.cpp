@@ -83,7 +83,7 @@ int main()
 void setup(vector<pair<int, int>> &snake)
 {
     gameOver = false;
-    dir = STOP;
+    dir = RIGHT;
 
     head_r = height / 2;
     head_c = width / 2;
