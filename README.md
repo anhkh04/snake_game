@@ -14,7 +14,8 @@ The snake moves automatically. To change its direction use the W, A, S, D keys:
 
 The fruit remains on the board until eaten. Your goal is to guide the snake to eat the fruit. Each time the snake eats a fruit:
 - Its length increases.
-- Your socre increases by 10 points.
+- The speed of the snake will increase.
+- Your score increases by 10 points.
 - A new fruit appears at a different position on the board.
 
 <mark>The only way to lose the game is if the snake collides with itself. So, navigate carefully and have fun!</mark>
