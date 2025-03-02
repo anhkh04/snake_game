@@ -18,4 +18,4 @@ The fruit remains on the board until eaten. Your goal is to guide the snake to e
 - Your score increases by 10 points.
 - A new fruit appears at a different position on the board.
 
-'The only way to lose the game is if the snake collides with itself. So, navigate carefully and have fun!'
+`The only way to lose the game is if the snake collides with itself. So, navigate carefully and have fun!`
